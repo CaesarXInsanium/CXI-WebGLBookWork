@@ -1,0 +1,278 @@
+Gtk-Message: 21:09:55.521: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 21:09:55.522: Failed to load module "canberra-gtk-module"
+[202910:202910:1227/210955.599491:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[202910:202910:1227/210955.599599:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[202910:202910:1227/210955.599644:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[202910:202910:1227/210955.599786:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[202910:202910:1227/210955.599823:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[202910:202910:1227/210955.599851:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[202910:202910:1227/210955.599882:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[202910:202910:1227/210955.600592:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[202972:202972:1227/210955.673948:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[202972:202972:1227/210955.674082:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[202972:202972:1227/210955.674119:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[202972:202972:1227/210955.674251:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[202972:202972:1227/210955.674276:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[202972:202972:1227/210955.674297:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[202972:202972:1227/210955.674320:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[202972:202972:1227/210955.675117:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[202999:202999:1227/210955.689068:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[202999:202999:1227/210955.689253:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[202999:202999:1227/210955.689287:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[202999:202999:1227/210955.689316:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[202999:202999:1227/210955.690118:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203026:203026:1227/210955.696186:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[202875:202927:1227/210958.678235:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[202875:202927:1227/210958.678257:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[202875:202927:1227/210958.678261:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[202875:202927:1227/210958.709369:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Gtk-Message: 21:12:31.697: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 21:12:31.698: Failed to load module "canberra-gtk-module"
+[203245:203245:1227/211231.774641:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203245:203245:1227/211231.774758:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203245:203245:1227/211231.774803:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[203245:203245:1227/211231.774958:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203245:203245:1227/211231.775002:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203245:203245:1227/211231.775030:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[203245:203245:1227/211231.775056:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203245:203245:1227/211231.775980:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203307:203307:1227/211231.843470:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203307:203307:1227/211231.843572:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203307:203307:1227/211231.843603:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[203307:203307:1227/211231.843712:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203307:203307:1227/211231.843739:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203307:203307:1227/211231.843762:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[203307:203307:1227/211231.843782:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203307:203307:1227/211231.844620:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203330:203330:1227/211231.853370:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[203330:203330:1227/211231.853497:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[203330:203330:1227/211231.853527:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[203330:203330:1227/211231.853558:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203330:203330:1227/211231.854360:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203354:203354:1227/211231.859749:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[203209:203260:1227/211234.849796:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[203209:203260:1227/211234.849822:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[203209:203260:1227/211234.849833:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[203209:203260:1227/211234.880126:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Gtk-Message: 21:12:47.618: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 21:12:47.619: Failed to load module "canberra-gtk-module"
+[203517:203517:1227/211247.696872:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203517:203517:1227/211247.696987:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203517:203517:1227/211247.697020:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[203517:203517:1227/211247.697185:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203517:203517:1227/211247.697214:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203517:203517:1227/211247.697235:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[203517:203517:1227/211247.697254:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203517:203517:1227/211247.697920:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203579:203579:1227/211247.765125:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203579:203579:1227/211247.765247:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203579:203579:1227/211247.765284:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[203579:203579:1227/211247.765420:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203579:203579:1227/211247.765448:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203579:203579:1227/211247.765472:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[203579:203579:1227/211247.765493:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203579:203579:1227/211247.766327:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203607:203607:1227/211247.775876:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[203607:203607:1227/211247.775989:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[203607:203607:1227/211247.776028:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[203607:203607:1227/211247.776067:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203607:203607:1227/211247.777190:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203633:203633:1227/211247.783136:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+Gtk-Message: 21:14:03.512: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 21:14:03.513: Failed to load module "canberra-gtk-module"
+[203892:203892:1227/211403.584864:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203892:203892:1227/211403.584996:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203892:203892:1227/211403.585053:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[203892:203892:1227/211403.585310:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203892:203892:1227/211403.585346:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203892:203892:1227/211403.585373:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[203892:203892:1227/211403.585395:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203892:203892:1227/211403.586066:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203954:203954:1227/211403.660435:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203954:203954:1227/211403.660592:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203954:203954:1227/211403.660638:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[203954:203954:1227/211403.661660:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[203954:203954:1227/211403.661786:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[203954:203954:1227/211403.661824:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[203954:203954:1227/211403.661852:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203954:203954:1227/211403.663133:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203976:203976:1227/211403.673029:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[203976:203976:1227/211403.673132:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[203976:203976:1227/211403.673164:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[203976:203976:1227/211403.673190:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[203976:203976:1227/211403.674268:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[203997:203997:1227/211403.680309:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+Gtk-Message: 21:15:01.124: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 21:15:01.125: Failed to load module "canberra-gtk-module"
+[204499:204499:1227/211501.200107:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[204499:204499:1227/211501.200200:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[204499:204499:1227/211501.200232:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[204499:204499:1227/211501.200354:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[204499:204499:1227/211501.200386:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[204499:204499:1227/211501.200432:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[204499:204499:1227/211501.200461:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[204499:204499:1227/211501.201128:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[204561:204561:1227/211501.269265:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[204561:204561:1227/211501.269411:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[204561:204561:1227/211501.269463:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[204561:204561:1227/211501.269679:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[204561:204561:1227/211501.269718:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[204561:204561:1227/211501.269744:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[204561:204561:1227/211501.269780:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[204561:204561:1227/211501.271302:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[204588:204588:1227/211501.281403:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[204588:204588:1227/211501.281515:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[204588:204588:1227/211501.281550:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[204588:204588:1227/211501.281586:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[204588:204588:1227/211501.282381:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[204615:204615:1227/211501.289227:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+Gtk-Message: 20:03:42.299: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:03:42.302: Failed to load module "canberra-gtk-module"
+[224687:224687:1228/200342.380563:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[224687:224687:1228/200342.380685:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[224687:224687:1228/200342.380714:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[224687:224687:1228/200342.380849:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[224687:224687:1228/200342.380877:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[224687:224687:1228/200342.380900:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[224687:224687:1228/200342.380921:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[224687:224687:1228/200342.381838:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[224750:224750:1228/200342.452405:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[224750:224750:1228/200342.452516:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[224750:224750:1228/200342.452540:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[224750:224750:1228/200342.452688:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[224750:224750:1228/200342.452730:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[224750:224750:1228/200342.452759:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[224750:224750:1228/200342.452790:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[224750:224750:1228/200342.454769:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[224774:224774:1228/200342.465283:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[224774:224774:1228/200342.465373:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[224774:224774:1228/200342.465396:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[224774:224774:1228/200342.465420:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[224774:224774:1228/200342.466168:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[224800:224800:1228/200342.476128:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+Gtk-Message: 20:10:20.556: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:10:20.557: Failed to load module "canberra-gtk-module"
+[229408:229408:1228/201020.635476:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[229408:229408:1228/201020.635588:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[229408:229408:1228/201020.635627:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[229408:229408:1228/201020.635746:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[229408:229408:1228/201020.635778:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[229408:229408:1228/201020.635804:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[229408:229408:1228/201020.635829:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[229408:229408:1228/201020.636599:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[229479:229479:1228/201020.713621:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[229479:229479:1228/201020.713755:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[229479:229479:1228/201020.713810:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[229479:229479:1228/201020.713919:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[229479:229479:1228/201020.713953:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[229479:229479:1228/201020.713990:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[229479:229479:1228/201020.714043:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[229479:229479:1228/201020.714845:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[229508:229508:1228/201020.729225:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[229508:229508:1228/201020.729345:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[229508:229508:1228/201020.729376:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[229508:229508:1228/201020.729417:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[229508:229508:1228/201020.730313:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[229524:229524:1228/201020.736264:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[229372:229396:1228/201022.715569:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[229372:229396:1228/201022.715606:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[229372:229396:1228/201022.715627:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[229372:229396:1228/201022.742625:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Gtk-Message: 20:13:44.923: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:13:44.924: Failed to load module "canberra-gtk-module"
+[230410:230410:1228/201345.004981:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[230410:230410:1228/201345.005091:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[230410:230410:1228/201345.005127:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[230410:230410:1228/201345.005274:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[230410:230410:1228/201345.005311:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[230410:230410:1228/201345.005337:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[230410:230410:1228/201345.005363:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[230410:230410:1228/201345.006077:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[230473:230473:1228/201345.072244:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[230473:230473:1228/201345.072393:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[230473:230473:1228/201345.072440:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[230473:230473:1228/201345.072641:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[230473:230473:1228/201345.072692:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[230473:230473:1228/201345.072725:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[230473:230473:1228/201345.072750:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[230473:230473:1228/201345.073594:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[230498:230498:1228/201345.090172:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[230498:230498:1228/201345.090270:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[230498:230498:1228/201345.090296:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[230498:230498:1228/201345.090326:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[230498:230498:1228/201345.091126:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[230529:230529:1228/201345.097954:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[230374:230429:1228/201347.095155:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[230374:230429:1228/201347.095176:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[230374:230429:1228/201347.095180:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[230374:230429:1228/201347.123124:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Gtk-Message: 20:22:19.786: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:22:19.787: Failed to load module "canberra-gtk-module"
+[232988:232988:1228/202219.862016:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[232988:232988:1228/202219.862129:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[232988:232988:1228/202219.862157:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[232988:232988:1228/202219.862354:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[232988:232988:1228/202219.862414:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[232988:232988:1228/202219.862450:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[232988:232988:1228/202219.862484:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[232988:232988:1228/202219.863264:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[233049:233049:1228/202219.924488:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[233049:233049:1228/202219.924657:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[233049:233049:1228/202219.924695:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[233049:233049:1228/202219.924962:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[233049:233049:1228/202219.925007:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[233049:233049:1228/202219.925036:ERROR:gl_surface_egl.cc(1382)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[233049:233049:1228/202219.925063:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[233049:233049:1228/202219.932668:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[233083:233083:1228/202219.942485:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[233083:233083:1228/202219.942620:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1048.
+[233083:233083:1228/202219.942650:ERROR:gl_surface_egl.cc(1382)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[233083:233083:1228/202219.942677:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[233083:233083:1228/202219.943472:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[233105:233105:1228/202219.950651:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[232953:232974:1228/202221.938669:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[232953:232974:1228/202221.938689:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[232953:232974:1228/202221.938695:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[232953:232974:1228/202221.965322:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[233976:233976:1228/202341.058397:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[234268:234268:1228/202408.401824:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[234227:234279:1228/202410.432088:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[234227:234279:1228/202410.432102:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[234227:234279:1228/202410.432106:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[234227:234279:1228/202410.466113:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[234637:234637:1228/202420.799377:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[234940:234940:1228/202457.819419:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[234898:234923:1228/202459.899492:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[234898:234923:1228/202459.899504:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[234898:234923:1228/202459.899508:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[234898:234923:1228/202459.936165:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[235395:235395:1228/203003.384078:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[235353:235416:1228/203005.452106:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[235353:235416:1228/203005.452117:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[235353:235416:1228/203005.452119:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[235353:235416:1228/203005.488373:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[236639:236639:1228/204312.962933:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[236597:236621:1228/204315.025691:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[236597:236621:1228/204315.025707:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[236597:236621:1228/204315.025711:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[236597:236621:1228/204315.061343:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[237918:237918:1228/205748.055423:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[237877:237906:1228/205750.094403:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[237877:237906:1228/205750.094416:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[237877:237906:1228/205750.094419:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[237877:237906:1228/205750.129075:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[238596:238596:1228/205855.325962:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[238554:238580:1228/205857.406699:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[238554:238580:1228/205857.406712:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[238554:238580:1228/205857.406716:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[238554:238580:1228/205857.446263:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[238554:238581:1229/071032.304760:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+[238554:238581:1229/174404.405365:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+[255635:255635:1229/200318.335283:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[255594:255619:1229/200320.430946:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[255594:255619:1229/200320.430958:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[255594:255619:1229/200320.430962:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[255594:255619:1229/200320.464249:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Opening in existing browser session.
+[256315:256315:0100/000000.940949:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[255594:255594:1229/202314.232742:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
